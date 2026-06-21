@@ -1,2 +1,14 @@
 # winiqy-notes
-HTML page archive and documentation
+
+自动页面托管记录
+
+仓库主要用于保存 HTML 页面，便于通过 GitHub Pages 访问。
+
+## 文件记录
+
+- 根目录中的 HTML 文件为发布结果
+- README 用于说明当前仓库用途
+
+## 提交说明
+
+页面文件由程序提交，提交历史可作为变更记录参考。
